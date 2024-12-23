@@ -24,8 +24,6 @@ https://multimart-ecommerce.onrender.com
 From your command line, first clone this repo:
 
 ```
-# Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
 
 # Go into the repository
 $ cd multimart-react-ecommerce
